@@ -1,4 +1,4 @@
-# gas_template
+# google-apps-script-template
 Google Apps ScriptをTypeScriptで開発する際のテンプレート  
 参考: https://qiita.com/HeRo/items/f2ce057c6b1456e896ad
 
